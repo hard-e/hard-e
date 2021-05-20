@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hard-e
+- 👋 Hi, I’m @adam west.
 - 👀 I’m interested in pretty much anything you can imagine.
 - 🌱 I’m currently learning how to become the best human I can be.
 - 💞️ I’m looking to collaborate on building my career in software development.
